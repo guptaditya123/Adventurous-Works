@@ -15,21 +15,21 @@ This report is aimed at deriving business insights and supporting data-driven de
 
 ---
 
-## 📷 Report Snapshots
+## 📷 Report 
+Snapshots
 
 ### 📌 Dashboard Overview  
-![Dashboard](screenshots/Screenshot%20(94).png)
-
+![Screenshot (94)](https://github.com/user-attachments/assets/2b5c9417-2cfd-401c-9a0f-9961d46a288b)
 ### 🌍 Map View  
-![Map](screenshots/Screenshot%20(95).png)
-
+![Screenshot (95)](https://github.com/user-attachments/assets/f1043f69-4baf-4269-afce-49d5b82a6c0c)
 ### 📦 Product Metrics  
-![Product Detail](screenshots/Screenshot%20(96).png)
+![Screenshot (96)](https://github.com/user-attachments/assets/fcba6c55-ae0d-455e-bc83-9941df26a93f)
 
 ### 👥 Customer Insights  
-![Customer Detail](screenshots/Screenshot%20(97).png)
+![Screenshot (97)](https://github.com/user-attachments/assets/90e89faa-e12b-4d19-bce6-da07d0820f46)
 
 ---
+
 
 ## 🧰 Tools & Technologies
 
